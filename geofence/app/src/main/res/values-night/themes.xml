@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Geofence" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorPrimaryVariant">@color/blue_secondary</item>
+        <item name="colorPrimaryDark">@color/blue_secondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>

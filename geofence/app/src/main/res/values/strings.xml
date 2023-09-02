@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Walmart</string>
+    <string name="purchase_history_txt">Track your order status, start a return, or view purchase history and receipts</string>
+    <string name="wallet_txt">Manage your payment methods, learn about our rewards card and access your Walmart or Sam\'s Club digital COVID-19 vaccine record.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_account_txt">New to Walmart? &lt;u>Create an account&lt;/u></string>
+    <string name="forgot_password">&lt;u>Forgot password?&lt;/u></string>
+    <string name="change">&lt;u>Change&lt;/u></string>
+    <string name="disclaimer">By creating an account, you acknowledge you have read and agreed to our &lt;u>Terms of use&lt;/u> and &lt;u>Privacy Policy&lt;/u></string>
+</resources>
